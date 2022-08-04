@@ -1,3 +1,5 @@
+YOU GET NO SUPPORT
+
 <h2>Installing the software in just 5 steps!</h2>
 
 <h3>1. Extract the pH7Builder archive</h3>
